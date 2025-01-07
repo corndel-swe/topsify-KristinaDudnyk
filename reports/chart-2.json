@@ -1,0 +1,1919 @@
+[
+  {
+    "artist_name": "21 Savage",
+    "album_name": "american dream",
+    "average_danceability": 0.669200000000000017,
+    "average_energy": 0.6707333333333332926,
+    "average_speechiness": 0.1715133333333333509,
+    "average_acousticness": 0.1994076666666666775,
+    "average_liveness": 0.3087999999999999634
+  },
+  {
+    "artist_name": "21 Savage",
+    "album_name": "american dream (nightcore version)",
+    "average_danceability": 0.6564666666666666428,
+    "average_energy": 0.6826000000000000956,
+    "average_speechiness": 0.1848800000000000166,
+    "average_acousticness": 0.1752386000000000222,
+    "average_liveness": 0.3066000000000000392
+  },
+  {
+    "artist_name": "21 Savage",
+    "album_name": "american dream (slowed down)",
+    "average_danceability": 0.7014666666666666828,
+    "average_energy": 0.634199999999999986,
+    "average_speechiness": 0.1637000000000000121,
+    "average_acousticness": 0.2238748666666666721,
+    "average_liveness": 0.2793333333333333779
+  },
+  {
+    "artist_name": "21 Savage",
+    "album_name": "american dream (sped up)",
+    "average_danceability": 0.6630666666666666931,
+    "average_energy": 0.7143333333333333757,
+    "average_speechiness": 0.1444866666666666799,
+    "average_acousticness": 0.1566053333333333187,
+    "average_liveness": 0.3433333333333333793
+  },
+  {
+    "artist_name": "Ariana Grande",
+    "album_name": "Positions",
+    "average_danceability": 0.6586428571428571966,
+    "average_energy": 0.5786428571428572364,
+    "average_speechiness": 0.0986071428571428654,
+    "average_acousticness": 0.2705428571428571405,
+    "average_liveness": 0.1506857142857142839
+  },
+  {
+    "artist_name": "Ariana Grande",
+    "album_name": "Positions (Deluxe)",
+    "average_danceability": 0.6672105263157894762,
+    "average_energy": 0.5872105263157895161,
+    "average_speechiness": 0.1052736842105263109,
+    "average_acousticness": 0.2571421052631578941,
+    "average_liveness": 0.1490842105263157913
+  },
+  {
+    "artist_name": "Ariana Grande",
+    "album_name": "Yours Truly (Tenth Anniversary Edition)",
+    "average_danceability": 0.6274210526315788793,
+    "average_energy": 0.7225789473684209873,
+    "average_speechiness": 0.0707368421052631674,
+    "average_acousticness": 0.1783631578947368346,
+    "average_liveness": 0.2079842105263157715
+  },
+  {
+    "artist_name": "Ariana Grande",
+    "album_name": "k bye for now (swt live)",
+    "average_danceability": 0.5560500000000000442,
+    "average_energy": 0.7318999999999999951,
+    "average_speechiness": 0.1027700000000000002,
+    "average_acousticness": 0.19434499999999999,
+    "average_liveness": 0.7512550000000000061
+  },
+  {
+    "artist_name": "Ariana Grande",
+    "album_name": "thank u, next",
+    "average_danceability": 0.6682500000000000106,
+    "average_energy": 0.5255833333333334023,
+    "average_speechiness": 0.1416416666666666658,
+    "average_acousticness": 0.2987333333333333507,
+    "average_liveness": 0.1547416666666666663
+  },
+  {
+    "artist_name": "Ava Max",
+    "album_name": "Choose Your Fighter (From Barbie The Album)",
+    "average_danceability": 0.6410000000000000142,
+    "average_energy": 0.8619999999999999885,
+    "average_speechiness": 0.06859999999999999431,
+    "average_acousticness": 0.003930000000000000334,
+    "average_liveness": 0.2340000000000000135
+  },
+  {
+    "artist_name": "Ava Max",
+    "album_name": "Diamonds & Dancefloors",
+    "average_danceability": 0.6520714285714285242,
+    "average_energy": 0.8255000000000000115,
+    "average_speechiness": 0.05969285714285714472,
+    "average_acousticness": 0.03981785714285714095,
+    "average_liveness": 0.1322000000000000119
+  },
+  {
+    "artist_name": "Ava Max",
+    "album_name": "Heaven & Hell",
+    "average_danceability": 0.636874999999999969,
+    "average_energy": 0.7230624999999999413,
+    "average_speechiness": 0.04556249999999999884,
+    "average_acousticness": 0.08899437500000000056,
+    "average_liveness": 0.13322500000000001
+  },
+  {
+    "artist_name": "Baby Tate",
+    "album_name": "After The Rain: Deluxe",
+    "average_danceability": 0.755384615384615432,
+    "average_energy": 0.5835384615384615615,
+    "average_speechiness": 0.0970692307692307688,
+    "average_acousticness": 0.2228230769230769293,
+    "average_liveness": 0.1630307692307692568
+  },
+  {
+    "artist_name": "Baby Tate",
+    "album_name": "GIRLS",
+    "average_danceability": 0.6957272727272726387,
+    "average_energy": 0.6058181818181818113,
+    "average_speechiness": 0.126018181818181807,
+    "average_acousticness": 0.1522109090909090911,
+    "average_liveness": 0.2909727272727272718
+  },
+  {
+    "artist_name": "Baby Tate",
+    "album_name": "GIRLS Deluxe",
+    "average_danceability": 0.6890666666666667161,
+    "average_energy": 0.6142666666666667385,
+    "average_speechiness": 0.1215133333333333343,
+    "average_acousticness": 0.1834986666666666711,
+    "average_liveness": 0.2528266666666666996
+  },
+  {
+    "artist_name": "Baby Tate",
+    "album_name": "Mani/Pedi",
+    "average_danceability": 0.7422142857142857153,
+    "average_energy": 0.5595714285714284974,
+    "average_speechiness": 0.1623928571428571443,
+    "average_acousticness": 0.2009807142857142903,
+    "average_liveness": 0.171892857142857125
+  },
+  {
+    "artist_name": "Benson Boone",
+    "album_name": "Beautiful Things",
+    "average_danceability": 0.4719999999999999752,
+    "average_energy": 0.4709999999999999743,
+    "average_speechiness": 0.06029999999999999944,
+    "average_acousticness": 0.1509999999999999954,
+    "average_liveness": 0.1400000000000000134
+  },
+  {
+    "artist_name": "Benson Boone",
+    "album_name": "Beautiful Things (Alternate Versions)",
+    "average_danceability": 0.5491666666666666919,
+    "average_energy": 0.3893333333333333645,
+    "average_speechiness": 0.1071333333333333443,
+    "average_acousticness": 0.4127000000000000112,
+    "average_liveness": 0.1814833333333333298
+  },
+  {
+    "artist_name": "Benson Boone",
+    "album_name": "In The Stars (Live Version)",
+    "average_danceability": 0.6129999999999999894,
+    "average_energy": 0.4929999999999999938,
+    "average_speechiness": 0.04870000000000000023,
+    "average_acousticness": 0.5020000000000000017,
+    "average_liveness": 0.6610000000000000319
+  },
+  {
+    "artist_name": "Benson Boone",
+    "album_name": "In The Stars (Remixes)",
+    "average_danceability": 0.6305000000000000604,
+    "average_energy": 0.8469999999999999752,
+    "average_speechiness": 0.1572999999999999954,
+    "average_acousticness": 0.1135250000000000009,
+    "average_liveness": 0.183250000000000024
+  },
+  {
+    "artist_name": "Benson Boone",
+    "album_name": "To Love Someone",
+    "average_danceability": 0.6089999999999999858,
+    "average_energy": 0.3430000000000000271,
+    "average_speechiness": 0.02850000000000000102,
+    "average_acousticness": 0.7089999999999999636,
+    "average_liveness": 0.1019999999999999934
+  },
+  {
+    "artist_name": "Beyoncé",
+    "album_name": "HOMECOMING: THE LIVE ALBUM",
+    "average_danceability": 0.4987999999999999657,
+    "average_energy": 0.6855999999999999873,
+    "average_speechiness": 0.2768899999999999694,
+    "average_acousticness": 0.0972385999999999945,
+    "average_liveness": 0.6211349999999999927
+  },
+  {
+    "artist_name": "Beyoncé",
+    "album_name": "Lemonade",
+    "average_danceability": 0.5343846153846153468,
+    "average_energy": 0.486000000000000043,
+    "average_speechiness": 0.1431923076923076744,
+    "average_acousticness": 0.378182307692307651,
+    "average_liveness": 0.2570230769230769097
+  },
+  {
+    "artist_name": "Beyoncé",
+    "album_name": "RENAISSANCE",
+    "average_danceability": 0.7295000000000000373,
+    "average_energy": 0.665749999999999953,
+    "average_speechiness": 0.138193750000000004,
+    "average_acousticness": 0.06299612500000000003,
+    "average_liveness": 0.2607875000000000054
+  },
+  {
+    "artist_name": "Beyoncé",
+    "album_name": "The Lion King: The Gift",
+    "average_danceability": 0.5053499999999999659,
+    "average_energy": 0.482457500000000039,
+    "average_speechiness": 0.1937899999999999901,
+    "average_acousticness": 0.3760350000000000081,
+    "average_liveness": 0.2799300000000000121
+  },
+  {
+    "artist_name": "Beyoncé",
+    "album_name": "The Lion King: The Gift [Deluxe Edition]",
+    "average_danceability": 0.6733529411764705986,
+    "average_energy": 0.5992352941176469771,
+    "average_speechiness": 0.1046117647058823485,
+    "average_acousticness": 0.1931135294117647116,
+    "average_liveness": 0.1992058823529411771
+  },
+  {
+    "artist_name": "Billie Eilish",
+    "album_name": "Guitar Songs",
+    "average_danceability": 0.3994999999999999662,
+    "average_energy": 0.1854999999999999983,
+    "average_speechiness": 0.0444500000000000034,
+    "average_acousticness": 0.8794999999999999484,
+    "average_liveness": 0.1208999999999999936
+  },
+  {
+    "artist_name": "Billie Eilish",
+    "album_name": "Happier Than Ever",
+    "average_danceability": 0.622125000000000039,
+    "average_energy": 0.3136249999999999872,
+    "average_speechiness": 0.0989687499999999943,
+    "average_acousticness": 0.635587499999999972,
+    "average_liveness": 0.1477312500000000083
+  },
+  {
+    "artist_name": "Billie Eilish",
+    "album_name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "average_danceability": 0.5837857142857142411,
+    "average_energy": 0.281721428571428567,
+    "average_speechiness": 0.1930857142857142772,
+    "average_acousticness": 0.6568571428571428061,
+    "average_liveness": 0.239307142857142885
+  },
+  {
+    "artist_name": "Billie Eilish",
+    "album_name": "What Was I Made For? [From The Motion Picture ''''Barbie'''']",
+    "average_danceability": 0.4440000000000000057,
+    "average_energy": 0.09110000000000000042,
+    "average_speechiness": 0.03070000000000000159,
+    "average_acousticness": 0.958999999999999964,
+    "average_liveness": 0.0980000000000000037
+  },
+  {
+    "artist_name": "Billie Eilish",
+    "album_name": "hotline (edit)",
+    "average_danceability": 0.5160000000000000142,
+    "average_energy": 0.2540000000000000035,
+    "average_speechiness": 0.05890000000000000096,
+    "average_acousticness": 0.8159999999999999475,
+    "average_liveness": 0.1890000000000000013
+  },
+  {
+    "artist_name": "David Kushner",
+    "album_name": "Daylight (Reimagined)",
+    "average_danceability": 0.4826666666666666327,
+    "average_energy": 0.4421666666666666523,
+    "average_speechiness": 0.03643333333333333146,
+    "average_acousticness": 0.6608333333333332727,
+    "average_liveness": 0.1625000000000000055
+  },
+  {
+    "artist_name": "David Kushner",
+    "album_name": "Dead Man",
+    "average_danceability": 0.5620000000000000551,
+    "average_energy": 0.5400000000000000355,
+    "average_speechiness": 0.02809999999999999998,
+    "average_acousticness": 0.3270000000000000128,
+    "average_liveness": 0.1069999999999999979
+  },
+  {
+    "artist_name": "David Kushner",
+    "album_name": "Dead Man + Daylight",
+    "average_danceability": 0.5058333333333333571,
+    "average_energy": 0.4898333333333333428,
+    "average_speechiness": 0.03528333333333333322,
+    "average_acousticness": 0.5769999999999999574,
+    "average_liveness": 0.1648333333333333317
+  },
+  {
+    "artist_name": "David Kushner",
+    "album_name": "Footprints I Found",
+    "average_danceability": 0.5637142857142857233,
+    "average_energy": 0.4337142857142857189,
+    "average_speechiness": 0.04957142857142856491,
+    "average_acousticness": 0.7507142857142856674,
+    "average_liveness": 0.1664285714285714257
+  },
+  {
+    "artist_name": "David Kushner",
+    "album_name": "Skin and Bones",
+    "average_danceability": 0.4839999999999999858,
+    "average_energy": 0.4570000000000000173,
+    "average_speechiness": 0.03760000000000000147,
+    "average_acousticness": 0.6490000000000000213,
+    "average_liveness": 0.1479999999999999927
+  },
+  {
+    "artist_name": "Doja Cat",
+    "album_name": "Amala (Deluxe Version)",
+    "average_danceability": 0.7231250000000000177,
+    "average_energy": 0.6344374999999999876,
+    "average_speechiness": 0.08559374999999999623,
+    "average_acousticness": 0.1510937499999999989,
+    "average_liveness": 0.1536687499999999929
+  },
+  {
+    "artist_name": "Doja Cat",
+    "album_name": "Hot Pink",
+    "average_danceability": 0.7400833333333333152,
+    "average_energy": 0.6760833333333332585,
+    "average_speechiness": 0.1208333333333333342,
+    "average_acousticness": 0.2216316666666666713,
+    "average_liveness": 0.1218749999999999973
+  },
+  {
+    "artist_name": "Doja Cat",
+    "album_name": "Planet Her",
+    "average_danceability": 0.7605000000000000649,
+    "average_energy": 0.6314999999999999503,
+    "average_speechiness": 0.0989071428571428602,
+    "average_acousticness": 0.2778428571428571691,
+    "average_liveness": 0.1474928571428571477
+  },
+  {
+    "artist_name": "Doja Cat",
+    "album_name": "Planet Her (Deluxe)",
+    "average_danceability": 0.7582105263157895569,
+    "average_energy": 0.6291578947368421381,
+    "average_speechiness": 0.1213526315789473647,
+    "average_acousticness": 0.2404894736842105308,
+    "average_liveness": 0.1422368421052631615
+  },
+  {
+    "artist_name": "Doja Cat",
+    "album_name": "Scarlet",
+    "average_danceability": 0.7442941176470588837,
+    "average_energy": 0.6221764705882353308,
+    "average_speechiness": 0.2174000000000000099,
+    "average_acousticness": 0.1713850588235294182,
+    "average_liveness": 0.1215823529411764747
+  },
+  {
+    "artist_name": "Drake",
+    "album_name": "Certified Lover Boy",
+    "average_danceability": 0.6400500000000000078,
+    "average_energy": 0.5376999999999999558,
+    "average_speechiness": 0.224840000000000012,
+    "average_acousticness": 0.2425384499999999888,
+    "average_liveness": 0.2159199999999999731
+  },
+  {
+    "artist_name": "Drake",
+    "album_name": "For All The Dogs",
+    "average_danceability": 0.6152999999999999581,
+    "average_energy": 0.4927500000000000213,
+    "average_speechiness": 0.1581600000000000228,
+    "average_acousticness": 0.2967899999999999983,
+    "average_liveness": 0.1990999999999999993
+  },
+  {
+    "artist_name": "Drake",
+    "album_name": "For All The Dogs Scary Hours Edition",
+    "average_danceability": 0.6176000000000000378,
+    "average_energy": 0.4977999999999999648,
+    "average_speechiness": 0.160770000000000024,
+    "average_acousticness": 0.2948549999999999783,
+    "average_liveness": 0.1987099999999999978
+  },
+  {
+    "artist_name": "Drake",
+    "album_name": "Honestly, Nevermind",
+    "average_danceability": 0.6436428571428570722,
+    "average_energy": 0.503914285714285759,
+    "average_speechiness": 0.0953142857142857125,
+    "average_acousticness": 0.372608785714285684,
+    "average_liveness": 0.1082214285714285657
+  },
+  {
+    "artist_name": "Dua Lipa",
+    "album_name": "Dua Lipa (Complete Edition)",
+    "average_danceability": 0.6430000000000000159,
+    "average_energy": 0.6598499999999999365,
+    "average_speechiness": 0.06981500000000000205,
+    "average_acousticness": 0.1047406000000000031,
+    "average_liveness": 0.1636249999999999927
+  },
+  {
+    "artist_name": "Dua Lipa",
+    "album_name": "Dua Lipa (Deluxe)",
+    "average_danceability": 0.6464705882352941301,
+    "average_energy": 0.6519411764705882461,
+    "average_speechiness": 0.06501176470588235223,
+    "average_acousticness": 0.1136712941176470649,
+    "average_liveness": 0.1598588235294117754
+  },
+  {
+    "artist_name": "Dua Lipa",
+    "album_name": "Future Nostalgia",
+    "average_danceability": 0.7245384615384615757,
+    "average_energy": 0.7218461538461539151,
+    "average_speechiness": 0.08859230769230769242,
+    "average_acousticness": 0.08220307692307692038,
+    "average_liveness": 0.1594461538461538486
+  },
+  {
+    "artist_name": "Dua Lipa",
+    "album_name": "Future Nostalgia (The Moonlight Edition)",
+    "average_danceability": 0.7226842105263158179,
+    "average_energy": 0.6994210526315789433,
+    "average_speechiness": 0.09157894736842105143,
+    "average_acousticness": 0.08687947368421052031,
+    "average_liveness": 0.1617631578947368587
+  },
+  {
+    "artist_name": "Flo Milli",
+    "album_name": "Ho, why is you here ?",
+    "average_danceability": 0.864416666666666611,
+    "average_energy": 0.7253333333333333855,
+    "average_speechiness": 0.2592166666666667063,
+    "average_acousticness": 0.1822333333333333305,
+    "average_liveness": 0.1425583333333333147
+  },
+  {
+    "artist_name": "Flo Milli",
+    "album_name": "Never Lose Me",
+    "average_danceability": 0.7177999999999999937,
+    "average_energy": 0.5413999999999999924,
+    "average_speechiness": 0.1728000000000000091,
+    "average_acousticness": 0.04113999999999999601,
+    "average_liveness": 0.1023200000000000082
+  },
+  {
+    "artist_name": "Flo Milli",
+    "album_name": "You Still Here, Ho ?",
+    "average_danceability": 0.893187500000000023,
+    "average_energy": 0.6391249999999999431,
+    "average_speechiness": 0.2370937499999999921,
+    "average_acousticness": 0.1685733749999999976,
+    "average_liveness": 0.1152187499999999948
+  },
+  {
+    "artist_name": "Flo Milli",
+    "album_name": "You Still Here, Ho ? (Extended)",
+    "average_danceability": 0.8957368421052630537,
+    "average_energy": 0.6585263157894737373,
+    "average_speechiness": 0.2155210526315789466,
+    "average_acousticness": 0.154461789473684219,
+    "average_liveness": 0.1425473684210526449
+  },
+  {
+    "artist_name": "Good Neighbours",
+    "album_name": "Home",
+    "average_danceability": 0.5829999999999999627,
+    "average_energy": 0.6760000000000000452,
+    "average_speechiness": 0.02980000000000000009,
+    "average_acousticness": 0.02889999999999999861,
+    "average_liveness": 0.1209999999999999965
+  },
+  {
+    "artist_name": "JENNIE",
+    "album_name": "JENNIE Special Single [You & Me]",
+    "average_danceability": 0.7680000000000000159,
+    "average_energy": 0.6125000000000000444,
+    "average_speechiness": 0.05905000000000000527,
+    "average_acousticness": 0.0098799999999999999,
+    "average_liveness": 0.1653000000000000024
+  },
+  {
+    "artist_name": "JENNIE",
+    "album_name": "SOLO",
+    "average_danceability": 0.7510000000000000008,
+    "average_energy": 0.642000000000000015,
+    "average_speechiness": 0.086999999999999994,
+    "average_acousticness": 0.08609999999999999599,
+    "average_liveness": 0.0952999999999999959
+  },
+  {
+    "artist_name": "JID",
+    "album_name": "DiCaprio 2",
+    "average_danceability": 0.7004285714285714005,
+    "average_energy": 0.6621428571428571441,
+    "average_speechiness": 0.338214285714285745,
+    "average_acousticness": 0.1899692857142857016,
+    "average_liveness": 0.3061857142857142832
+  },
+  {
+    "artist_name": "JID",
+    "album_name": "The Forever Story (Extended Version)",
+    "average_danceability": 0.5987500000000000044,
+    "average_energy": 0.5584999999999999965,
+    "average_speechiness": 0.3197499999999999787,
+    "average_acousticness": 0.3200662499999999966,
+    "average_liveness": 0.1916374999999999885
+  },
+  {
+    "artist_name": "JID",
+    "album_name": "The Never Story",
+    "average_danceability": 0.6549166666666667024,
+    "average_energy": 0.536583333333333301,
+    "average_speechiness": 0.3789666666666666738,
+    "average_acousticness": 0.4306416666666666449,
+    "average_liveness": 0.2251499999999999891
+  },
+  {
+    "artist_name": "Jack Harlow",
+    "album_name": "Come Home The Kids Miss You",
+    "average_danceability": 0.7856000000000000761,
+    "average_energy": 0.5365999999999999659,
+    "average_speechiness": 0.1777199999999999891,
+    "average_acousticness": 0.1685679999999999957,
+    "average_liveness": 0.1761066666666666613
+  },
+  {
+    "artist_name": "Jack Harlow",
+    "album_name": "Confetti",
+    "average_danceability": 0.8403333333333332656,
+    "average_energy": 0.6334166666666666278,
+    "average_speechiness": 0.1569416666666666738,
+    "average_acousticness": 0.03743028333333333485,
+    "average_liveness": 0.1412750000000000116
+  },
+  {
+    "artist_name": "Jack Harlow",
+    "album_name": "Jackman.",
+    "average_danceability": 0.6792000000000000259,
+    "average_energy": 0.6809000000000000608,
+    "average_speechiness": 0.2614299999999999958,
+    "average_acousticness": 0.3084500000000000019,
+    "average_liveness": 0.1439400000000000123
+  },
+  {
+    "artist_name": "Jack Harlow",
+    "album_name": "Sweet Action",
+    "average_danceability": 0.9095714285714285862,
+    "average_energy": 0.564571428571428613,
+    "average_speechiness": 0.1135142857142857065,
+    "average_acousticness": 0.06098571428571428892,
+    "average_liveness": 0.1243571428571428606
+  },
+  {
+    "artist_name": "Jack Harlow",
+    "album_name": "Thats What They All Say",
+    "average_danceability": 0.7971333333333333604,
+    "average_energy": 0.6034666666666665958,
+    "average_speechiness": 0.2188400000000000067,
+    "average_acousticness": 0.1431933333333333392,
+    "average_liveness": 0.2050200000000000077
+  },
+  {
+    "artist_name": "Jung Kook",
+    "album_name": "3D : The Remixes",
+    "average_danceability": 0.8031428571428571583,
+    "average_energy": 0.8040000000000000479,
+    "average_speechiness": 0.1166000000000000091,
+    "average_acousticness": 0.03173085714285714399,
+    "average_liveness": 0.1490857142857142937
+  },
+  {
+    "artist_name": "Jung Kook",
+    "album_name": "GOLDEN",
+    "average_danceability": 0.683909090909090911,
+    "average_energy": 0.6677272727272727249,
+    "average_speechiness": 0.07159090909090909393,
+    "average_acousticness": 0.3081727272727272648,
+    "average_liveness": 0.1218909090909090914
+  },
+  {
+    "artist_name": "Jung Kook",
+    "album_name": "Standing Next to You (The Remixes)",
+    "average_danceability": 0.7501249999999999307,
+    "average_energy": 0.7218750000000000444,
+    "average_speechiness": 0.06098750000000000004,
+    "average_acousticness": 0.02914125000000000048,
+    "average_liveness": 0.1944375000000000132
+  },
+  {
+    "artist_name": "Justin Timberlake",
+    "album_name": "12'''' Masters - The Essential Mixes",
+    "average_danceability": 0.7464545454545454817,
+    "average_energy": 0.7895454545454545503,
+    "average_speechiness": 0.0831545454545454532,
+    "average_acousticness": 0.005462563636363635539,
+    "average_liveness": 0.2076727272727272867
+  },
+  {
+    "artist_name": "Justin Timberlake",
+    "album_name": "Man of the Woods",
+    "average_danceability": 0.6768750000000000044,
+    "average_energy": 0.6120624999999999539,
+    "average_speechiness": 0.06376249999999999974,
+    "average_acousticness": 0.1969906250000000025,
+    "average_liveness": 0.2052749999999999852
+  },
+  {
+    "artist_name": "Justin Timberlake",
+    "album_name": "The 20/20 Experience (Deluxe Version)",
+    "average_danceability": 0.6324166666666666269,
+    "average_energy": 0.558749999999999969,
+    "average_speechiness": 0.1020583333333333204,
+    "average_acousticness": 0.3329000000000000293,
+    "average_liveness": 0.2855500000000000261
+  },
+  {
+    "artist_name": "Justin Timberlake",
+    "album_name": "The 20/20 Experience - 2 of 2 (Deluxe)",
+    "average_danceability": 0.5816923076923076197,
+    "average_energy": 0.6402307692307692699,
+    "average_speechiness": 0.1440692307692307827,
+    "average_acousticness": 0.1510546153846153983,
+    "average_liveness": 0.2696153846153845901
+  },
+  {
+    "artist_name": "Justin Timberlake",
+    "album_name": "The Book of Love (Original Motion Picture Soundtrack)",
+    "average_danceability": 0.1563749999999999862,
+    "average_energy": 0.03277750000000000107,
+    "average_speechiness": 0.03952499999999999764,
+    "average_acousticness": 0.940750000000000087,
+    "average_liveness": 0.08923000000000000375
+  },
+  {
+    "artist_name": "KAROL G",
+    "album_name": "KG0516",
+    "average_danceability": 0.7578749999999999654,
+    "average_energy": 0.739312500000000039,
+    "average_speechiness": 0.1374624999999999875,
+    "average_acousticness": 0.2883062499999999862,
+    "average_liveness": 0.1868937499999999974
+  },
+  {
+    "artist_name": "KAROL G",
+    "album_name": "MAÑANA SERÁ BONITO",
+    "average_danceability": 0.8104705882352941649,
+    "average_energy": 0.6875882352941176112,
+    "average_speechiness": 0.2034176470588235363,
+    "average_acousticness": 0.4129999999999999783,
+    "average_liveness": 0.1395352941176470629
+  },
+  {
+    "artist_name": "KAROL G",
+    "album_name": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+    "average_danceability": 0.7998000000000000665,
+    "average_energy": 0.6820000000000000506,
+    "average_speechiness": 0.1193200000000000093,
+    "average_acousticness": 0.238867999999999997,
+    "average_liveness": 0.1375899999999999901
+  },
+  {
+    "artist_name": "KAROL G",
+    "album_name": "OCEAN",
+    "average_danceability": 0.756437499999999985,
+    "average_energy": 0.7134375000000000578,
+    "average_speechiness": 0.1001687500000000008,
+    "average_acousticness": 0.2669050000000000033,
+    "average_liveness": 0.1692937499999999929
+  },
+  {
+    "artist_name": "KAROL G",
+    "album_name": "Unstoppable",
+    "average_danceability": 0.7356923076923076455,
+    "average_energy": 0.6807692307692307931,
+    "average_speechiness": 0.1038923076923077004,
+    "average_acousticness": 0.2087223076923076793,
+    "average_liveness": 0.1424230769230769301
+  },
+  {
+    "artist_name": "Kacey Musgraves",
+    "album_name": "A Very Kacey Christmas",
+    "average_danceability": 0.6069999999999999841,
+    "average_energy": 0.5288333333333333775,
+    "average_speechiness": 0.0350666666666666696,
+    "average_acousticness": 0.5862500000000000488,
+    "average_liveness": 0.1581583333333333175
+  },
+  {
+    "artist_name": "Kacey Musgraves",
+    "album_name": "Golden Hour",
+    "average_danceability": 0.6136923076923076482,
+    "average_energy": 0.5343846153846153468,
+    "average_speechiness": 0.03620000000000000301,
+    "average_acousticness": 0.4124384615384615316,
+    "average_liveness": 0.1094923076923076944
+  },
+  {
+    "artist_name": "Kacey Musgraves",
+    "album_name": "Pageant Material",
+    "average_danceability": 0.5987142857142856434,
+    "average_energy": 0.4656428571428571361,
+    "average_speechiness": 0.03204285714285714376,
+    "average_acousticness": 0.572000000000000064,
+    "average_liveness": 0.2111714285714285654
+  },
+  {
+    "artist_name": "Kacey Musgraves",
+    "album_name": "The Kacey Musgraves Christmas Show",
+    "average_danceability": 0.5937777777777778488,
+    "average_energy": 0.4279999999999999916,
+    "average_speechiness": 0.3422944444444444568,
+    "average_acousticness": 0.6102055555555555566,
+    "average_liveness": 0.6839999999999999413
+  },
+  {
+    "artist_name": "Kacey Musgraves",
+    "album_name": "star-crossed",
+    "average_danceability": 0.5924000000000000376,
+    "average_energy": 0.5191333333333333355,
+    "average_speechiness": 0.04565333333333333049,
+    "average_acousticness": 0.6096666666666666901,
+    "average_liveness": 0.1459066666666666844
+  },
+  {
+    "artist_name": "Kali Uchis",
+    "album_name": "Isolation",
+    "average_danceability": 0.6398666666666666947,
+    "average_energy": 0.6439333333333333576,
+    "average_speechiness": 0.06632000000000000394,
+    "average_acousticness": 0.2302080000000000238,
+    "average_liveness": 0.1664466666666666594
+  },
+  {
+    "artist_name": "Kali Uchis",
+    "album_name": "ORQUÍDEAS",
+    "average_danceability": 0.670499999999999985,
+    "average_energy": 0.6833571428571428852,
+    "average_speechiness": 0.06618571428571427829,
+    "average_acousticness": 0.1938699999999999867,
+    "average_liveness": 0.1666142857142856871
+  },
+  {
+    "artist_name": "Kali Uchis",
+    "album_name": "Red Moon In Venus",
+    "average_danceability": 0.5537333333333334106,
+    "average_energy": 0.5363066666666667092,
+    "average_speechiness": 0.07402000000000000246,
+    "average_acousticness": 0.3904066666666666797,
+    "average_liveness": 0.2284333333333333216
+  },
+  {
+    "artist_name": "Kali Uchis",
+    "album_name": "Sin Miedo (del Amor y Otros Demonios) ∞",
+    "average_danceability": 0.6326153846153845794,
+    "average_energy": 0.448461538461538467,
+    "average_speechiness": 0.06813846153846153663,
+    "average_acousticness": 0.3375376923076923164,
+    "average_liveness": 0.1950307692307692297
+  },
+  {
+    "artist_name": "Kali Uchis",
+    "album_name": "Sin Miedo (del Amor y Otros Demonios) ∞ [Deluxe Version]",
+    "average_danceability": 0.6372666666666666479,
+    "average_energy": 0.4586666666666666669,
+    "average_speechiness": 0.07227333333333334219,
+    "average_acousticness": 0.3095593333333333529,
+    "average_liveness": 0.189373333333333338
+  },
+  {
+    "artist_name": "Kenya Grace",
+    "album_name": "Only In My Mind",
+    "average_danceability": 0.6644999999999999796,
+    "average_energy": 0.6414999999999999592,
+    "average_speechiness": 0.1008000000000000007,
+    "average_acousticness": 0.7009999999999999565,
+    "average_liveness": 0.1650000000000000077
+  },
+  {
+    "artist_name": "Kenya Grace",
+    "album_name": "Paris",
+    "average_danceability": 0.7710000000000000186,
+    "average_energy": 0.7700000000000000177,
+    "average_speechiness": 0.2530000000000000026,
+    "average_acousticness": 0.2640000000000000124,
+    "average_liveness": 0.08899999999999999579
+  },
+  {
+    "artist_name": "Kenya Grace",
+    "album_name": "Strangers",
+    "average_danceability": 0.6280000000000000026,
+    "average_energy": 0.5230000000000000204,
+    "average_speechiness": 0.0946000000000000035,
+    "average_acousticness": 0.7009999999999999565,
+    "average_liveness": 0.2190000000000000002
+  },
+  {
+    "artist_name": "Kenya Grace",
+    "album_name": "Strangers (sad acoustic version)",
+    "average_danceability": 0.3479999999999999761,
+    "average_energy": 0.2079999999999999905,
+    "average_speechiness": 0.04769999999999999935,
+    "average_acousticness": 0.9180000000000000381,
+    "average_liveness": 0.1360000000000000097
+  },
+  {
+    "artist_name": "Kygo",
+    "album_name": "Cloud Nine",
+    "average_danceability": 0.622133333333333427,
+    "average_energy": 0.5730666666666667241,
+    "average_speechiness": 0.06840000000000000246,
+    "average_acousticness": 0.3460599999999999788,
+    "average_liveness": 0.1995399999999999952
+  },
+  {
+    "artist_name": "Kygo",
+    "album_name": "Golden Hour",
+    "average_danceability": 0.6073333333333333917,
+    "average_energy": 0.6038888888888888085,
+    "average_speechiness": 0.07161111111111111149,
+    "average_acousticness": 0.2708333333333333148,
+    "average_liveness": 0.1214611111111111169
+  },
+  {
+    "artist_name": "Kygo",
+    "album_name": "Kids in Love",
+    "average_danceability": 0.6575555555555555597,
+    "average_energy": 0.6659999999999999253,
+    "average_speechiness": 0.05617777777777777092,
+    "average_acousticness": 0.2347111111111111203,
+    "average_liveness": 0.1375222222222222123
+  },
+  {
+    "artist_name": "Kygo",
+    "album_name": "Kids in Love (Remixes)",
+    "average_danceability": 0.6165555555555556345,
+    "average_energy": 0.6652222222222222702,
+    "average_speechiness": 0.06342222222222221317,
+    "average_acousticness": 0.2787111111111111316,
+    "average_liveness": 0.2005666666666666709
+  },
+  {
+    "artist_name": "Kygo",
+    "album_name": "Thrill Of The Chase",
+    "average_danceability": 0.6253571428571429447,
+    "average_energy": 0.636142857142857232,
+    "average_speechiness": 0.05440714285714285531,
+    "average_acousticness": 0.2914285714285714258,
+    "average_liveness": 0.1413214285714285701
+  },
+  {
+    "artist_name": "Latto",
+    "album_name": "777",
+    "average_danceability": 0.802928571428571436,
+    "average_energy": 0.6394999999999999574,
+    "average_speechiness": 0.2218142857142857139,
+    "average_acousticness": 0.08863314285714285479,
+    "average_liveness": 0.1867000000000000048
+  },
+  {
+    "artist_name": "Latto",
+    "album_name": "Latto Let ''Em Know",
+    "average_danceability": 0.7422666666666667412,
+    "average_energy": 0.7028666666666666396,
+    "average_speechiness": 0.1791999999999999982,
+    "average_acousticness": 0.2455400000000000082,
+    "average_liveness": 0.147413333333333313
+  },
+  {
+    "artist_name": "Latto",
+    "album_name": "Mulatto",
+    "average_danceability": 0.7033000000000000362,
+    "average_energy": 0.4703000000000000514,
+    "average_speechiness": 0.2327199999999999825,
+    "average_acousticness": 0.2075390000000000012,
+    "average_liveness": 0.1885300000000000031
+  },
+  {
+    "artist_name": "Latto",
+    "album_name": "Queen of Da Souf",
+    "average_danceability": 0.8189230769230769758,
+    "average_energy": 0.6078461538461538139,
+    "average_speechiness": 0.2454846153846153844,
+    "average_acousticness": 0.2850000000000000311,
+    "average_liveness": 0.1946230769230769264
+  },
+  {
+    "artist_name": "Latto",
+    "album_name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
+    "average_danceability": 0.8149444444444444712,
+    "average_energy": 0.6183333333333334015,
+    "average_speechiness": 0.2372944444444444468,
+    "average_acousticness": 0.2749300000000000077,
+    "average_liveness": 0.183549999999999991
+  },
+  {
+    "artist_name": "Madison Beer",
+    "album_name": "As She Pleases",
+    "average_danceability": 0.6701428571428571512,
+    "average_energy": 0.561999999999999944,
+    "average_speechiness": 0.120971428571428577,
+    "average_acousticness": 0.286085714285714332,
+    "average_liveness": 0.1979857142857142927
+  },
+  {
+    "artist_name": "Madison Beer",
+    "album_name": "Life Support",
+    "average_danceability": 0.4546470588235294042,
+    "average_energy": 0.5162941176470587923,
+    "average_speechiness": 0.08465882352941177246,
+    "average_acousticness": 0.3634352941176470786,
+    "average_liveness": 0.1681823529411764772
+  },
+  {
+    "artist_name": "Madison Beer",
+    "album_name": "Make You Mine",
+    "average_danceability": 0.5140000000000000124,
+    "average_energy": 0.6580000000000000293,
+    "average_speechiness": 0.04139999999999999931,
+    "average_acousticness": 0.2159999999999999976,
+    "average_liveness": 0.2059999999999999887
+  },
+  {
+    "artist_name": "Madison Beer",
+    "album_name": "Silence Between Songs",
+    "average_danceability": 0.5427142857142857046,
+    "average_energy": 0.4382857142857142784,
+    "average_speechiness": 0.03341428571428571582,
+    "average_acousticness": 0.6689857142857142947,
+    "average_liveness": 0.2056928571428571217
+  },
+  {
+    "artist_name": "Madison Beer",
+    "album_name": "Spinnin",
+    "average_danceability": 0.553400000000000003,
+    "average_energy": 0.4305999999999999828,
+    "average_speechiness": 0.0330799999999999983,
+    "average_acousticness": 0.5971600000000000241,
+    "average_liveness": 0.2304999999999999826
+  },
+  {
+    "artist_name": "Madonna",
+    "album_name": "Finally Enough Love",
+    "average_danceability": 0.7035624999999999796,
+    "average_energy": 0.8366249999999999521,
+    "average_speechiness": 0.05646249999999999881,
+    "average_acousticness": 0.02326928375000000132,
+    "average_liveness": 0.2300187499999999941
+  },
+  {
+    "artist_name": "Madonna",
+    "album_name": "Finally Enough Love: 50 Number Ones",
+    "average_danceability": 0.7201500000000000679,
+    "average_energy": 0.8550499999999999768,
+    "average_speechiness": 0.04908500000000000362,
+    "average_acousticness": 0.04206494499999999942,
+    "average_liveness": 0.1905600000000000071
+  },
+  {
+    "artist_name": "Madonna",
+    "album_name": "Madame X (International Deluxe)",
+    "average_danceability": 0.6628333333333332745,
+    "average_energy": 0.675333333333333341,
+    "average_speechiness": 0.0885500000000000037,
+    "average_acousticness": 0.1686955611111111142,
+    "average_liveness": 0.2450111111111110962
+  },
+  {
+    "artist_name": "Madonna",
+    "album_name": "Madame X - Music From The Theater Xperience (Live)",
+    "average_danceability": 0.5441500000000000225,
+    "average_energy": 0.6573999999999999844,
+    "average_speechiness": 0.1507499999999999952,
+    "average_acousticness": 0.1752653500000000142,
+    "average_liveness": 0.7777999999999999358
+  },
+  {
+    "artist_name": "Madonna",
+    "album_name": "True Blue (35th Anniversary Edition)",
+    "average_danceability": 0.7344444444444444553,
+    "average_energy": 0.8290555555555555455,
+    "average_speechiness": 0.04994444444444444409,
+    "average_acousticness": 0.2374333333333333018,
+    "average_liveness": 0.1392611111111111133
+  },
+  {
+    "artist_name": "Michael Marcagi",
+    "album_name": "American Romance",
+    "average_danceability": 0.60640000000000005,
+    "average_energy": 0.4924000000000000599,
+    "average_speechiness": 0.03082000000000000365,
+    "average_acousticness": 0.3718000000000000193,
+    "average_liveness": 0.2084000000000000019
+  },
+  {
+    "artist_name": "Michael Marcagi",
+    "album_name": "Pop 100",
+    "average_danceability": 0.6316500000000000447,
+    "average_energy": 0.7352000000000000757,
+    "average_speechiness": 0.07803499999999999325,
+    "average_acousticness": 0.1272054999999999992,
+    "average_liveness": 0.2156049999999999912
+  },
+  {
+    "artist_name": "Michael Marcagi",
+    "album_name": "Scared To Start",
+    "average_danceability": 0.5270000000000000239,
+    "average_energy": 0.5510000000000000452,
+    "average_speechiness": 0.03450000000000000289,
+    "average_acousticness": 0.3840000000000000079,
+    "average_liveness": 0.4030000000000000248
+  },
+  {
+    "artist_name": "Michael Marcagi",
+    "album_name": "The Other Side",
+    "average_danceability": 0.6959999999999999521,
+    "average_energy": 0.4699999999999999734,
+    "average_speechiness": 0.03119999999999999857,
+    "average_acousticness": 0.2989999999999999881,
+    "average_liveness": 0.1529999999999999972
+  },
+  {
+    "artist_name": "Michael Marcagi",
+    "album_name": "The Rest Is Pop",
+    "average_danceability": 0.6443499999999999784,
+    "average_energy": 0.6818999999999999507,
+    "average_speechiness": 0.05526999999999999969,
+    "average_acousticness": 0.2184870000000000146,
+    "average_liveness": 0.2395999999999999797
+  },
+  {
+    "artist_name": "Miley Cyrus",
+    "album_name": "ATTENTION: MILEY LIVE",
+    "average_danceability": 0.4592999999999999861,
+    "average_energy": 0.8419000000000000928,
+    "average_speechiness": 0.0969649999999999957,
+    "average_acousticness": 0.04669750000000000289,
+    "average_liveness": 0.7127499999999999947
+  },
+  {
+    "artist_name": "Miley Cyrus",
+    "album_name": "Endless Summer Vacation",
+    "average_danceability": 0.5737142857142857322,
+    "average_energy": 0.6237142857142856656,
+    "average_speechiness": 0.06419999999999999318,
+    "average_acousticness": 0.2698267857142856996,
+    "average_liveness": 0.1874142857142857276
+  },
+  {
+    "artist_name": "Miley Cyrus",
+    "album_name": "Plastic Hearts",
+    "average_danceability": 0.6126666666666665817,
+    "average_energy": 0.7132000000000000562,
+    "average_speechiness": 0.0545333333333333295,
+    "average_acousticness": 0.04926739999999999592,
+    "average_liveness": 0.1579266666666666596
+  },
+  {
+    "artist_name": "Miley Cyrus",
+    "album_name": "SHE IS COMING",
+    "average_danceability": 0.6918571428571428373,
+    "average_energy": 0.663714285714285701,
+    "average_speechiness": 0.0970428571428571391,
+    "average_acousticness": 0.1807099999999999817,
+    "average_liveness": 0.2177142857142857213
+  },
+  {
+    "artist_name": "Miley Cyrus",
+    "album_name": "Younger Now",
+    "average_danceability": 0.572636363636363721,
+    "average_energy": 0.6284545454545454879,
+    "average_speechiness": 0.03736363636363636275,
+    "average_acousticness": 0.0981361818181818308,
+    "average_liveness": 0.1988272727272727413
+  },
+  {
+    "artist_name": "Mitski",
+    "album_name": "Be the Cowboy",
+    "average_danceability": 0.3896857142857142464,
+    "average_energy": 0.5391285714285714015,
+    "average_speechiness": 0.03287142857142857227,
+    "average_acousticness": 0.2798461428571428767,
+    "average_liveness": 0.2280214285714285693
+  },
+  {
+    "artist_name": "Mitski",
+    "album_name": "Bury Me At Makeout Creek",
+    "average_danceability": 0.3696000000000000397,
+    "average_energy": 0.4331000000000000406,
+    "average_speechiness": 0.03496000000000000497,
+    "average_acousticness": 0.06104119000000000211,
+    "average_liveness": 0.1339600000000000236
+  },
+  {
+    "artist_name": "Mitski",
+    "album_name": "Laurel Hell",
+    "average_danceability": 0.466454545454545455,
+    "average_energy": 0.4893636363636363896,
+    "average_speechiness": 0.03144545454545454726,
+    "average_acousticness": 0.2810009090909091344,
+    "average_liveness": 0.1135727272727272835
+  },
+  {
+    "artist_name": "Mitski",
+    "album_name": "Puberty 2",
+    "average_danceability": 0.3869090909090909247,
+    "average_energy": 0.4836363636363636421,
+    "average_speechiness": 0.04147272727272727221,
+    "average_acousticness": 0.1222546272727272759,
+    "average_liveness": 0.1886818181818181727
+  },
+  {
+    "artist_name": "Mitski",
+    "album_name": "The Land Is Inhospitable and So Are We",
+    "average_danceability": 0.3335454545454545339,
+    "average_energy": 0.279154545454545433,
+    "average_speechiness": 0.03394545454545454949,
+    "average_acousticness": 0.6618090909090909025,
+    "average_liveness": 0.1374545454545454681
+  },
+  {
+    "artist_name": "Muni Long",
+    "album_name": "Made For Me",
+    "average_danceability": 0.785000000000000031,
+    "average_energy": 0.4699999999999999734,
+    "average_speechiness": 0.03289999999999999869,
+    "average_acousticness": 0.1370000000000000106,
+    "average_liveness": 0.1310000000000000053
+  },
+  {
+    "artist_name": "Muni Long",
+    "album_name": "Made For Me (Soul Train Performance Live)",
+    "average_danceability": 0.6674999999999999823,
+    "average_energy": 0.6055000000000000381,
+    "average_speechiness": 0.06259999999999998899,
+    "average_acousticness": 0.08823000000000000286,
+    "average_liveness": 0.4017499999999999961
+  },
+  {
+    "artist_name": "Muni Long",
+    "album_name": "Nobody Knows",
+    "average_danceability": 0.7508571428571428896,
+    "average_energy": 0.4714285714285714745,
+    "average_speechiness": 0.09025714285714285524,
+    "average_acousticness": 0.44511428571428574,
+    "average_liveness": 0.1453285714285714458
+  },
+  {
+    "artist_name": "Muni Long",
+    "album_name": "Public Displays Of Affection: The Album",
+    "average_danceability": 0.7181666666666666198,
+    "average_energy": 0.5133888888888888947,
+    "average_speechiness": 0.0976944444444444448,
+    "average_acousticness": 0.2865166666666666973,
+    "average_liveness": 0.1448833333333333361
+  },
+  {
+    "artist_name": "Myke Towers",
+    "album_name": "Easy Money Baby",
+    "average_danceability": 0.783222222222222264,
+    "average_energy": 0.6886111111111110628,
+    "average_speechiness": 0.1870166666666666644,
+    "average_acousticness": 0.306511111111111123,
+    "average_liveness": 0.1484333333333333337
+  },
+  {
+    "artist_name": "Myke Towers",
+    "album_name": "El Final del Principio",
+    "average_danceability": 0.5964000000000000412,
+    "average_energy": 0.7003000000000000335,
+    "average_speechiness": 0.2545600000000000084,
+    "average_acousticness": 0.244065000000000032,
+    "average_liveness": 0.1297299999999999842
+  },
+  {
+    "artist_name": "Myke Towers",
+    "album_name": "LA VIDA ES UNA",
+    "average_danceability": 0.7702999999999999848,
+    "average_energy": 0.7117499999999999938,
+    "average_speechiness": 0.1315299999999999802,
+    "average_acousticness": 0.2457749999999999935,
+    "average_liveness": 0.1268250000000000211
+  },
+  {
+    "artist_name": "Myke Towers",
+    "album_name": "LVEU: VIVE LA TUYA...NO LA MIA",
+    "average_danceability": 0.7671999999999999931,
+    "average_energy": 0.7062000000000000499,
+    "average_speechiness": 0.1448649999999999938,
+    "average_acousticness": 0.3315500000000000113,
+    "average_liveness": 0.2078399999999999693
+  },
+  {
+    "artist_name": "Myke Towers",
+    "album_name": "LYKE MIKE",
+    "average_danceability": 0.7796999999999999486,
+    "average_energy": 0.6081999999999999629,
+    "average_speechiness": 0.2044249999999999957,
+    "average_acousticness": 0.2295900000000000163,
+    "average_liveness": 0.2018500000000000016
+  },
+  {
+    "artist_name": "Noah Kahan",
+    "album_name": "Busyhead",
+    "average_danceability": 0.6144000000000000572,
+    "average_energy": 0.5951999999999999514,
+    "average_speechiness": 0.06853000000000000758,
+    "average_acousticness": 0.2459000000000000074,
+    "average_liveness": 0.1524800000000000044
+  },
+  {
+    "artist_name": "Noah Kahan",
+    "album_name": "I Was / I Am",
+    "average_danceability": 0.5948999999999999844,
+    "average_energy": 0.490240000000000009,
+    "average_speechiness": 0.07230999999999999928,
+    "average_acousticness": 0.3186829999999999941,
+    "average_liveness": 0.1408900000000000153
+  },
+  {
+    "artist_name": "Noah Kahan",
+    "album_name": "Stick Season",
+    "average_danceability": 0.5690714285714285614,
+    "average_energy": 0.3984285714285714652,
+    "average_speechiness": 0.043499999999999997,
+    "average_acousticness": 0.5049571428571428822,
+    "average_liveness": 0.1412071428571428644
+  },
+  {
+    "artist_name": "Noah Kahan",
+    "album_name": "Stick Season (Forever)",
+    "average_danceability": 0.5740499999999999492,
+    "average_energy": 0.375099999999999989,
+    "average_speechiness": 0.04172499999999999821,
+    "average_acousticness": 0.5025950000000000139,
+    "average_liveness": 0.1316750000000000143
+  },
+  {
+    "artist_name": "Noah Kahan",
+    "album_name": "Stick Season (We''ll All Be Here Forever)",
+    "average_danceability": 0.5770999999999999463,
+    "average_energy": 0.3763500000000000178,
+    "average_speechiness": 0.04028999999999999943,
+    "average_acousticness": 0.5017899999999999583,
+    "average_liveness": 0.1310449999999999949
+  },
+  {
+    "artist_name": "Olivia Rodrigo",
+    "album_name": "Can’t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+    "average_danceability": 0.5210000000000000186,
+    "average_energy": 0.3659999999999999921,
+    "average_speechiness": 0.03400000000000000244,
+    "average_acousticness": 0.8379999999999999672,
+    "average_liveness": 0.1199999999999999956
+  },
+  {
+    "artist_name": "Olivia Rodrigo",
+    "album_name": "GUTS",
+    "average_danceability": 0.5028333333333333544,
+    "average_energy": 0.5900833333333332931,
+    "average_speechiness": 0.06782499999999999641,
+    "average_acousticness": 0.3535566666666666858,
+    "average_liveness": 0.1850249999999999951
+  },
+  {
+    "artist_name": "Olivia Rodrigo",
+    "album_name": "SOUR",
+    "average_danceability": 0.5119090909090909803,
+    "average_energy": 0.4201818181818181564,
+    "average_speechiness": 0.08719090909090909669,
+    "average_acousticness": 0.5745545454545454289,
+    "average_liveness": 0.1546545454545454612
+  },
+  {
+    "artist_name": "Olivia Rodrigo",
+    "album_name": "The Rose Song [From ''''High School Musical: The Musical: The Series (Season 2)'''']",
+    "average_danceability": 0.4369999999999999996,
+    "average_energy": 0.3719999999999999974,
+    "average_speechiness": 0.03729999999999999983,
+    "average_acousticness": 0.7840000000000000301,
+    "average_liveness": 0.1069999999999999979
+  },
+  {
+    "artist_name": "Peso Pluma",
+    "album_name": "Ah y Que?",
+    "average_danceability": 0.6755833333333333134,
+    "average_energy": 0.6135000000000000452,
+    "average_speechiness": 0.0448666666666666658,
+    "average_acousticness": 0.4319166666666666709,
+    "average_liveness": 0.166699999999999987
+  },
+  {
+    "artist_name": "Peso Pluma",
+    "album_name": "Disco en Vivo (En Vivo)",
+    "average_danceability": 0.6000999999999999668,
+    "average_energy": 0.5631000000000000449,
+    "average_speechiness": 0.0677100000000000063,
+    "average_acousticness": 0.4631999999999999451,
+    "average_liveness": 0.1073099999999999887
+  },
+  {
+    "artist_name": "Peso Pluma",
+    "album_name": "Disco en Vivo, Vol.2 (En Vivo)",
+    "average_danceability": 0.5935000000000000275,
+    "average_energy": 0.6166249999999999787,
+    "average_speechiness": 0.06386250000000000259,
+    "average_acousticness": 0.3552500000000000102,
+    "average_liveness": 0.2653750000000000276
+  },
+  {
+    "artist_name": "Peso Pluma",
+    "album_name": "Efectos Secundarios",
+    "average_danceability": 0.7026250000000000551,
+    "average_energy": 0.5500000000000000444,
+    "average_speechiness": 0.03955000000000000182,
+    "average_acousticness": 0.5221249999999999503,
+    "average_liveness": 0.1482874999999999888
+  },
+  {
+    "artist_name": "Peso Pluma",
+    "album_name": "GÉNESIS",
+    "average_danceability": 0.7012352941176470677,
+    "average_energy": 0.7713529411764705745,
+    "average_speechiness": 0.05370588235294117968,
+    "average_acousticness": 0.2944352941176470728,
+    "average_liveness": 0.1700294117647058733
+  },
+  {
+    "artist_name": "Playboi Carti",
+    "album_name": "Die Lit",
+    "average_danceability": 0.7596842105263157396,
+    "average_energy": 0.6560000000000000275,
+    "average_speechiness": 0.1773789473684210526,
+    "average_acousticness": 0.08264526315789473554,
+    "average_liveness": 0.2213526315789473841
+  },
+  {
+    "artist_name": "Playboi Carti",
+    "album_name": "In Abundance",
+    "average_danceability": 0.6929411764705881716,
+    "average_energy": 0.5959999999999999743,
+    "average_speechiness": 0.1810941176470588498,
+    "average_acousticness": 0.2295582352941176741,
+    "average_liveness": 0.2961117647058823522
+  },
+  {
+    "artist_name": "Playboi Carti",
+    "album_name": "Playboi Carti",
+    "average_danceability": 0.791533333333333311,
+    "average_energy": 0.6014666666666667049,
+    "average_speechiness": 0.2777933333333333366,
+    "average_acousticness": 0.1298040000000000027,
+    "average_liveness": 0.2635333333333333417
+  },
+  {
+    "artist_name": "Playboi Carti",
+    "album_name": "Whole Lotta Red",
+    "average_danceability": 0.7458500000000000129,
+    "average_energy": 0.6484499999999999709,
+    "average_speechiness": 0.195940000000000003,
+    "average_acousticness": 0.04761270000000000085,
+    "average_liveness": 0.1717349999999999988
+  },
+  {
+    "artist_name": "Rema",
+    "album_name": "RAVAGE",
+    "average_danceability": 0.7016000000000000014,
+    "average_energy": 0.7785999999999999588,
+    "average_speechiness": 0.06954000000000000458,
+    "average_acousticness": 0.07514600000000000445,
+    "average_liveness": 0.247200000000000003
+  },
+  {
+    "artist_name": "Rema",
+    "album_name": "Rave & Roses",
+    "average_danceability": 0.5805000000000000159,
+    "average_energy": 0.721624999999999961,
+    "average_speechiness": 0.09109375000000000111,
+    "average_acousticness": 0.2903812499999999797,
+    "average_liveness": 0.2167125000000000023
+  },
+  {
+    "artist_name": "Rema",
+    "album_name": "Rave & Roses Ultra",
+    "average_danceability": 0.6105500000000000371,
+    "average_energy": 0.7115000000000000213,
+    "average_speechiness": 0.0937749999999999973,
+    "average_acousticness": 0.3253750000000000253,
+    "average_liveness": 0.1924549999999999871
+  },
+  {
+    "artist_name": "Rich Amiri",
+    "album_name": "CODEINE CRAZY",
+    "average_danceability": 0.6879999999999999449,
+    "average_energy": 0.7650000000000000133,
+    "average_speechiness": 0.07889999999999999792,
+    "average_acousticness": 0.04920000000000000067,
+    "average_liveness": 0.3699999999999999956
+  },
+  {
+    "artist_name": "Rich Amiri",
+    "album_name": "Evolution",
+    "average_danceability": 0.7365000000000000435,
+    "average_energy": 0.5605833333333333223,
+    "average_speechiness": 0.1627333333333333132,
+    "average_acousticness": 0.06068808333333333694,
+    "average_liveness": 0.1527249999999999997
+  },
+  {
+    "artist_name": "Rich Amiri",
+    "album_name": "For The Better",
+    "average_danceability": 0.644375000000000031,
+    "average_energy": 0.607999999999999985,
+    "average_speechiness": 0.1238749999999999991,
+    "average_acousticness": 0.04977874999999999662,
+    "average_liveness": 0.1912874999999999993
+  },
+  {
+    "artist_name": "Rich Amiri",
+    "album_name": "Ghetto Fabulous",
+    "average_danceability": 0.6893571428571428905,
+    "average_energy": 0.6412857142857142367,
+    "average_speechiness": 0.1028571428571428554,
+    "average_acousticness": 0.08072308571428572777,
+    "average_liveness": 0.19113571428571427
+  },
+  {
+    "artist_name": "Rich Amiri",
+    "album_name": "ONE CALL",
+    "average_danceability": 0.6646666666666666278,
+    "average_energy": 0.6863333333333333509,
+    "average_speechiness": 0.06300000000000000044,
+    "average_acousticness": 0.01930333333333333553,
+    "average_liveness": 0.1816333333333333411
+  },
+  {
+    "artist_name": "SZA",
+    "album_name": "Ctrl",
+    "average_danceability": 0.6257857142857142785,
+    "average_energy": 0.5309285714285714164,
+    "average_speechiness": 0.1834999999999999965,
+    "average_acousticness": 0.3573857142857143066,
+    "average_liveness": 0.163350000000000023
+  },
+  {
+    "artist_name": "SZA",
+    "album_name": "Ctrl (Deluxe)",
+    "average_danceability": 0.6400500000000000078,
+    "average_energy": 0.4844000000000000528,
+    "average_speechiness": 0.1730750000000000066,
+    "average_acousticness": 0.3393950000000000022,
+    "average_liveness": 0.1496200000000000029
+  },
+  {
+    "artist_name": "SZA",
+    "album_name": "SOS",
+    "average_danceability": 0.602949999999999986,
+    "average_energy": 0.5299500000000000321,
+    "average_speechiness": 0.0968949999999999951,
+    "average_acousticness": 0.5054450000000000331,
+    "average_liveness": 0.1751800000000000023
+  },
+  {
+    "artist_name": "Sabrina Carpenter",
+    "album_name": "EVOLution",
+    "average_danceability": 0.6288000000000000255,
+    "average_energy": 0.6514999999999999681,
+    "average_speechiness": 0.05144999999999999574,
+    "average_acousticness": 0.2444799999999999752,
+    "average_liveness": 0.1491199999999999747
+  },
+  {
+    "artist_name": "Sabrina Carpenter",
+    "album_name": "Singular Act I",
+    "average_danceability": 0.6332499999999999796,
+    "average_energy": 0.6219999999999999974,
+    "average_speechiness": 0.100725000000000009,
+    "average_acousticness": 0.1285587499999999995,
+    "average_liveness": 0.2158625000000000127
+  },
+  {
+    "artist_name": "Sabrina Carpenter",
+    "album_name": "Singular Act II",
+    "average_danceability": 0.6343333333333334156,
+    "average_energy": 0.5919999999999999707,
+    "average_speechiness": 0.1633111111111111013,
+    "average_acousticness": 0.2161866666666666659,
+    "average_liveness": 0.1135222222222222327
+  },
+  {
+    "artist_name": "Sabrina Carpenter",
+    "album_name": "emails i can''t send",
+    "average_danceability": 0.5963076923076923164,
+    "average_energy": 0.5586153846153846247,
+    "average_speechiness": 0.1437153846153846337,
+    "average_acousticness": 0.3358230769230769464,
+    "average_liveness": 0.2065153846153846007
+  },
+  {
+    "artist_name": "Sabrina Carpenter",
+    "album_name": "emails i can’t send fwd:",
+    "average_danceability": 0.6145294117647058796,
+    "average_energy": 0.5291176470588235813,
+    "average_speechiness": 0.1071588235294117508,
+    "average_acousticness": 0.3769647058823529795,
+    "average_liveness": 0.1779764705882352915
+  },
+  {
+    "artist_name": "Selena Gomez",
+    "album_name": "Love On",
+    "average_danceability": 0.7560000000000000053,
+    "average_energy": 0.5290000000000000257,
+    "average_speechiness": 0.03679999999999999938,
+    "average_acousticness": 0.1829999999999999961,
+    "average_liveness": 0.07910000000000000364
+  },
+  {
+    "artist_name": "Selena Gomez",
+    "album_name": "Rare",
+    "average_danceability": 0.7436923076923076526,
+    "average_energy": 0.5099230769230769233,
+    "average_speechiness": 0.1375461538461538458,
+    "average_acousticness": 0.2838307692307692198,
+    "average_liveness": 0.1581384615384615334
+  },
+  {
+    "artist_name": "Selena Gomez",
+    "album_name": "Rare (Deluxe)",
+    "average_danceability": 0.7537058823529411145,
+    "average_energy": 0.5365882352941175881,
+    "average_speechiness": 0.1229470588235294093,
+    "average_acousticness": 0.2841058823529411526,
+    "average_liveness": 0.1409058823529411863
+  },
+  {
+    "artist_name": "Selena Gomez",
+    "album_name": "Revival (Deluxe)",
+    "average_danceability": 0.6286875000000000658,
+    "average_energy": 0.7200625000000000497,
+    "average_speechiness": 0.07288749999999999396,
+    "average_acousticness": 0.1304500000000000103,
+    "average_liveness": 0.1795312500000000033
+  },
+  {
+    "artist_name": "Selena Gomez",
+    "album_name": "Stars Dance (Bonus Track Version)",
+    "average_danceability": 0.6331538461538461781,
+    "average_energy": 0.8106923076923077121,
+    "average_speechiness": 0.08991538461538461923,
+    "average_acousticness": 0.04110769230769230342,
+    "average_liveness": 0.208169230769230773
+  },
+  {
+    "artist_name": "Sexyy Red",
+    "album_name": "Ghetto Superstar",
+    "average_danceability": 0.8181249999999999912,
+    "average_energy": 0.6142499999999999627,
+    "average_speechiness": 0.3141249999999999876,
+    "average_acousticness": 0.01945787499999999948,
+    "average_liveness": 0.2516499999999999849
+  },
+  {
+    "artist_name": "Sexyy Red",
+    "album_name": "Hood Hottest Princess",
+    "average_danceability": 0.7056363636363637282,
+    "average_energy": 0.6589090909090908888,
+    "average_speechiness": 0.3299363636363636387,
+    "average_acousticness": 0.06590363636363637257,
+    "average_liveness": 0.1998181818181818114
+  },
+  {
+    "artist_name": "Sexyy Red",
+    "album_name": "Hood Hottest Princess (Deluxe)",
+    "average_danceability": 0.7729500000000000259,
+    "average_energy": 0.6313999999999999613,
+    "average_speechiness": 0.335409999999999986,
+    "average_acousticness": 0.04916849999999999694,
+    "average_liveness": 0.1871050000000000213
+  },
+  {
+    "artist_name": "Tate McRae",
+    "album_name": "Spotify OUTSIDE",
+    "average_danceability": 0.6059999999999999832,
+    "average_energy": 0.2780000000000000248,
+    "average_speechiness": 0.0415999999999999981,
+    "average_acousticness": 0.8569999999999999841,
+    "average_liveness": 0.0955000000000000015
+  },
+  {
+    "artist_name": "Tate McRae",
+    "album_name": "THINK LATER",
+    "average_danceability": 0.6384999999999999565,
+    "average_energy": 0.622357142857142831,
+    "average_speechiness": 0.0492500000000000021,
+    "average_acousticness": 0.2827500000000000013,
+    "average_liveness": 0.11812857142857143
+  },
+  {
+    "artist_name": "Tate McRae",
+    "album_name": "greedy (remixes)",
+    "average_danceability": 0.6270000000000000017,
+    "average_energy": 0.8645000000000000461,
+    "average_speechiness": 0.03775000000000000577,
+    "average_acousticness": 0.03930000000000000159,
+    "average_liveness": 0.1754999999999999894
+  },
+  {
+    "artist_name": "Tate McRae",
+    "album_name": "i used to think i could fly",
+    "average_danceability": 0.630384615384615432,
+    "average_energy": 0.4592307692307692201,
+    "average_speechiness": 0.1416461538461538383,
+    "average_acousticness": 0.499223076923076936,
+    "average_liveness": 0.148369230769230781
+  },
+  {
+    "artist_name": "Taylor Swift",
+    "album_name": "1989 (Taylor''s Version)",
+    "average_danceability": 0.633900000000000019,
+    "average_energy": 0.6654999999999999805,
+    "average_speechiness": 0.05290500000000000063,
+    "average_acousticness": 0.1143073999999999895,
+    "average_liveness": 0.1533100000000000018
+  },
+  {
+    "artist_name": "Taylor Swift",
+    "album_name": "1989 (Taylor''s Version) [Deluxe]",
+    "average_danceability": 0.6215499999999999358,
+    "average_energy": 0.665549999999999975,
+    "average_speechiness": 0.05612500000000000127,
+    "average_acousticness": 0.1115672000000000052,
+    "average_liveness": 0.1571750000000000091
+  },
+  {
+    "artist_name": "Taylor Swift",
+    "album_name": "Midnights (3am Edition)",
+    "average_danceability": 0.6266499999999999293,
+    "average_energy": 0.4511499999999999955,
+    "average_speechiness": 0.09207499999999999018,
+    "average_acousticness": 0.4132200000000000318,
+    "average_liveness": 0.1502350000000000074
+  },
+  {
+    "artist_name": "Taylor Swift",
+    "album_name": "Midnights (The Til Dawn Edition)",
+    "average_danceability": 0.6201999999999999736,
+    "average_energy": 0.4511499999999999955,
+    "average_speechiness": 0.0966999999999999943,
+    "average_acousticness": 0.4098950000000000093,
+    "average_liveness": 0.1453149999999999998
+  },
+  {
+    "artist_name": "Taylor Swift",
+    "album_name": "Speak Now (Taylor''s Version)",
+    "average_danceability": 0.5417500000000000649,
+    "average_energy": 0.6623499999999999944,
+    "average_speechiness": 0.03925499999999999823,
+    "average_acousticness": 0.1549562999999999913,
+    "average_liveness": 0.1400300000000000156
+  },
+  {
+    "artist_name": "Teddy Swims",
+    "album_name": "I''ve Tried Everything But Therapy (Part 1)",
+    "average_danceability": 0.5822000000000000508,
+    "average_energy": 0.5854999999999999094,
+    "average_speechiness": 0.04764999999999999792,
+    "average_acousticness": 0.3499700000000000033,
+    "average_liveness": 0.1429499999999999938
+  },
+  {
+    "artist_name": "Teddy Swims",
+    "album_name": "Lose Control (BBC Radio 1 Live Lounge Session)",
+    "average_danceability": 0.6650000000000000355,
+    "average_energy": 0.2819999999999999729,
+    "average_speechiness": 0.04200000000000000261,
+    "average_acousticness": 0.6860000000000000542,
+    "average_liveness": 0.2159999999999999976
+  },
+  {
+    "artist_name": "The Weeknd",
+    "album_name": "Dawn FM (Alternate World)",
+    "average_danceability": 0.5961000000000000743,
+    "average_energy": 0.6701500000000000234,
+    "average_speechiness": 0.07563999999999999891,
+    "average_acousticness": 0.2420266000000000362,
+    "average_liveness": 0.2061550000000000049
+  },
+  {
+    "artist_name": "The Weeknd",
+    "album_name": "Live At SoFi Stadium",
+    "average_danceability": 0.4703000000000000514,
+    "average_energy": 0.6847999999999999643,
+    "average_speechiness": 0.06360999999999999988,
+    "average_acousticness": 0.07670423549999999536,
+    "average_liveness": 0.5314999999999999725
+  },
+  {
+    "artist_name": "The Weeknd",
+    "album_name": "Starboy (Deluxe)",
+    "average_danceability": 0.6403999999999999693,
+    "average_energy": 0.5774000000000000243,
+    "average_speechiness": 0.1255200000000000205,
+    "average_acousticness": 0.1896549999999999903,
+    "average_liveness": 0.1755199999999999815
+  },
+  {
+    "artist_name": "The Weeknd",
+    "album_name": "The Highlights (Deluxe)",
+    "average_danceability": 0.5790499999999999537,
+    "average_energy": 0.6382499999999999841,
+    "average_speechiness": 0.07000000000000000667,
+    "average_acousticness": 0.1558049999999999991,
+    "average_liveness": 0.146705000000000002
+  },
+  {
+    "artist_name": "Tiësto",
+    "album_name": "AFTR:HRS (Mixed By Tiësto)",
+    "average_danceability": 0.693857142857142839,
+    "average_energy": 0.7522142857142857242,
+    "average_speechiness": 0.04587142857142856995,
+    "average_acousticness": 0.06266857142857143458,
+    "average_liveness": 0.1492999999999999883
+  },
+  {
+    "artist_name": "Tiësto",
+    "album_name": "CLUBLIFE, VOL. 5: CHINA",
+    "average_danceability": 0.6386000000000000565,
+    "average_energy": 0.922850000000000059,
+    "average_speechiness": 0.126705000000000012,
+    "average_acousticness": 0.004384754999999999729,
+    "average_liveness": 0.1969750000000000111
+  },
+  {
+    "artist_name": "Tiësto",
+    "album_name": "DRIVE",
+    "average_danceability": 0.7210769230769231708,
+    "average_energy": 0.800230769230769301,
+    "average_speechiness": 0.1067230769230769205,
+    "average_acousticness": 0.1266261538461538327,
+    "average_liveness": 0.2174153846153846215
+  },
+  {
+    "artist_name": "Tiësto",
+    "album_name": "The London Sessions",
+    "average_danceability": 0.7071538461538461329,
+    "average_energy": 0.8178461538461537783,
+    "average_speechiness": 0.05813076923076923585,
+    "average_acousticness": 0.0997623076923076917,
+    "average_liveness": 0.1709230769230769275
+  },
+  {
+    "artist_name": "Tiësto",
+    "album_name": "Together",
+    "average_danceability": 0.6499090909090908808,
+    "average_energy": 0.8876363636363635568,
+    "average_speechiness": 0.1479545454545454498,
+    "average_acousticness": 0.0260211818181818183,
+    "average_liveness": 0.4050000000000000267
+  },
+  {
+    "artist_name": "Travis Scott",
+    "album_name": "ASTROWORLD",
+    "average_danceability": 0.6867647058823529438,
+    "average_energy": 0.6394117647058823461,
+    "average_speechiness": 0.0947352941176470564,
+    "average_acousticness": 0.1304858823529411738,
+    "average_liveness": 0.1902411764705882191
+  },
+  {
+    "artist_name": "Travis Scott",
+    "album_name": "Birds In The Trap Sing McKnight",
+    "average_danceability": 0.6737142857142857099,
+    "average_energy": 0.6265000000000000569,
+    "average_speechiness": 0.1150357142857142828,
+    "average_acousticness": 0.2025928571428571579,
+    "average_liveness": 0.2274642857142857022
+  },
+  {
+    "artist_name": "Travis Scott",
+    "album_name": "UTOPIA",
+    "average_danceability": 0.613157894736842124,
+    "average_energy": 0.6586842105263158719,
+    "average_speechiness": 0.09038947368421053342,
+    "average_acousticness": 0.1866970000000000018,
+    "average_liveness": 0.2756578947368421017
+  },
+  {
+    "artist_name": "Tyla",
+    "album_name": "On and On - A COLORS SHOW",
+    "average_danceability": 0.7980000000000000426,
+    "average_energy": 0.6320000000000000062,
+    "average_speechiness": 0.06199999999999999956,
+    "average_acousticness": 0.1350000000000000088,
+    "average_liveness": 0.06350000000000000088
+  },
+  {
+    "artist_name": "Tyla",
+    "album_name": "TYLA",
+    "average_danceability": 0.6715999999999999748,
+    "average_energy": 0.6310000000000000053,
+    "average_speechiness": 0.1136600000000000111,
+    "average_acousticness": 0.2703200000000000047,
+    "average_liveness": 0.1108200000000000018
+  },
+  {
+    "artist_name": "Tyla",
+    "album_name": "Water",
+    "average_danceability": 0.6730000000000000426,
+    "average_energy": 0.7219999999999999752,
+    "average_speechiness": 0.07549999999999999767,
+    "average_acousticness": 0.08559999999999999554,
+    "average_liveness": 0.1370000000000000106
+  },
+  {
+    "artist_name": "Xavi",
+    "album_name": "La Diabla",
+    "average_danceability": 0.7510000000000000008,
+    "average_energy": 0.8189999999999999503,
+    "average_speechiness": 0.04089999999999999886,
+    "average_acousticness": 0.2550000000000000044,
+    "average_liveness": 0.2359999999999999876
+  },
+  {
+    "artist_name": "Xavi",
+    "album_name": "La Víctima",
+    "average_danceability": 0.7780000000000000248,
+    "average_energy": 0.8349999999999999645,
+    "average_speechiness": 0.07670000000000000428,
+    "average_acousticness": 0.1519999999999999963,
+    "average_liveness": 0.1089999999999999997
+  },
+  {
+    "artist_name": "Xavi",
+    "album_name": "My Mom''s Playlist",
+    "average_danceability": 0.6791428571428570482,
+    "average_energy": 0.2850000000000000311,
+    "average_speechiness": 0.03634285714285714203,
+    "average_acousticness": 0.6097142857142856532,
+    "average_liveness": 0.1439142857142857169
+  },
+  {
+    "artist_name": "YG Marley",
+    "album_name": "Praise Jah In The Moonlight",
+    "average_danceability": 0.660000000000000031,
+    "average_energy": 0.7269999999999999796,
+    "average_speechiness": 0.04410000000000000031,
+    "average_acousticness": 0.1280000000000000026,
+    "average_liveness": 0.5240000000000000213
+  },
+  {
+    "artist_name": "YG Marley",
+    "album_name": "Praise Jah In The Moonlight (Live)",
+    "average_danceability": 0.6400000000000000133,
+    "average_energy": 0.704500000000000015,
+    "average_speechiness": 0.04315000000000000085,
+    "average_acousticness": 0.08924999999999999601,
+    "average_liveness": 0.4949999999999999956
+  },
+  {
+    "artist_name": "Zach Bryan",
+    "album_name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
+    "average_danceability": 0.3727500000000000258,
+    "average_energy": 0.7015500000000000069,
+    "average_speechiness": 0.06468000000000000138,
+    "average_acousticness": 0.4943549999999999889,
+    "average_liveness": 0.8171500000000000429
+  },
+  {
+    "artist_name": "Zach Bryan",
+    "album_name": "American Heartbreak",
+    "average_danceability": 0.5020000000000000017,
+    "average_energy": 0.5251000000000000111,
+    "average_speechiness": 0.04798999999999999794,
+    "average_acousticness": 0.4235075000000000367,
+    "average_liveness": 0.1864300000000000123
+  },
+  {
+    "artist_name": "Zach Bryan",
+    "album_name": "DeAnn",
+    "average_danceability": 0.6112499999999999601,
+    "average_energy": 0.1196583333333333248,
+    "average_speechiness": 0.04934999999999999804,
+    "average_acousticness": 0.8305833333333333401,
+    "average_liveness": 0.1185916666666666647
+  },
+  {
+    "artist_name": "Zach Bryan",
+    "album_name": "Elisabeth",
+    "average_danceability": 0.5812222222222221957,
+    "average_energy": 0.1961555555555555553,
+    "average_speechiness": 0.04850555555555555177,
+    "average_acousticness": 0.8189444444444444748,
+    "average_liveness": 0.1503555555555555479
+  },
+  {
+    "artist_name": "Zach Bryan",
+    "album_name": "Zach Bryan",
+    "average_danceability": 0.5027500000000000301,
+    "average_energy": 0.4290625000000000133,
+    "average_speechiness": 0.06406250000000000833,
+    "average_acousticness": 0.5751125000000000264,
+    "average_liveness": 0.1569250000000000089
+  }
+]
