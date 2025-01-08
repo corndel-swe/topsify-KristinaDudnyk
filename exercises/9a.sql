@@ -3,7 +3,7 @@
 -- "id" should be autoincrementing integer
 -- "name" is a unique string
 -- Could you write the SQL to create the table?
-CREATE TABLE genres (
+.mode json CREATE TABLE genres (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   name STRING UNIQUE
 );

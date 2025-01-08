@@ -1,0 +1,6 @@
+.mode json CREATE TABLE playlists (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  userId INTEGER,
+  name TEXT,
+  FOREIGN KEY (bleeuserIdtId) REFERENCES users(id) ON DELETE CASCADE
+);
